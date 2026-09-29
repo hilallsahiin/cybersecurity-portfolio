@@ -3,7 +3,7 @@
 Bu depo; Windows & Active Directory güvenliği, AD CS (ESC1) zafiyet analizi, DCSync, Splunk ile tespit mühendisliği ve hardening süreçlerini kapsayan uygulamalı laboratuvar çalışmalarımın teknik portfolyosunu içerir.
 
 ### 📄 Portfolyo Dosyası
-- **[Teknik Portfolyoyu Görüntüle / İndir (PDF)](./Hilal-Sahin-Technical-Portfolio.pdf)**
+- [Teknik Portfolyoyu Görüntüle / İndir (PDF)](./Hilal_Sahin_Cybersecurity_Portfolio.pdf)
 
 ---
 
